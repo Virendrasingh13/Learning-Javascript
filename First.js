@@ -1,3 +1,4 @@
+// FUNCTION COUNTS NUMBER OF VOVEL
 // function noOfVovel(str){
 //     let count =0;
 //     for(let a of str)
@@ -12,6 +13,8 @@
 // noOfVovel("vovel")
 
 
+
+//SAME USING ARROW FUNCTION
 // const countVovel = (str) =>{
 //     count =0;
 //     for(let a of str){
@@ -22,7 +25,6 @@
 //     }
 //     console.log(count);
 // }
-
 // console.log(countVovel);
 
 
@@ -33,7 +35,6 @@
 //     }
 //     console.log(sum);
 // }
-
 // sumOfNumber(5)
 
 
